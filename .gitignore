@@ -1,0 +1,10 @@
+# Archivos Visual Studio
+.vs/*
+Debug/*
+Color-Shapes/Debug/*
+Color-Shapes/Release/*
+
+#Archivos a no seguir
+*.sln
+*.vcxproj
+*.vcxproj.*
