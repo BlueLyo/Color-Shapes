@@ -3,6 +3,8 @@
 Debug/*
 Color-Shapes/Debug/*
 Color-Shapes/Release/*
+x64/*
+Color-Shapes/x64/*
 
 #Archivos a no seguir
 *.sln
